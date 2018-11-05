@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/gnome-extensions.git]
+checkout = vcsh clone git@github.com:imilovanov/dotfiles-gnome-extensions.git gnome-extensions 
